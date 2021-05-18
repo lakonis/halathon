@@ -68,7 +68,7 @@ Le DOI n'a pas été trouvé dans HAL. Faites une recherche par titre dans HAL a
 
 - Script ScanR [récupérer les DOI de son établissement](https://github.com/MinistereSupRecherche/bso/blob/master/notebooks/OA_perimetre_specifique.ipynb)
 - [Unpaywall](https://www.unpaywall.org/)
-- [Persmissions](https://shareyourpaper.org/permissions)
+- [Permissions](https://shareyourpaper.org/permissions)
 
 <br />
 
